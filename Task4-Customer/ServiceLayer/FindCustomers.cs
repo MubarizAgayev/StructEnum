@@ -34,7 +34,7 @@ namespace Task4.Service
             {
                 sum += customers[i].Age;
             }
-            result=sum/customers.Length;
+            result=sum/(customers.Length-1);
             return result;
         }
     }
