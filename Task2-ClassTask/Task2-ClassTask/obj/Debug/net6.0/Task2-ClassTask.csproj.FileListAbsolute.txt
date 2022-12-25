@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\Struct,Enum\Task2-ClassTask\Task2-ClassTask\bin\Debug\net6.0\Task2-ClassTask.exe
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\Struct,Enum\Task2-ClassTask\Task2-ClassTask\bin\Debug\net6.0\Task2-ClassTask.deps.json
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\Struct,Enum\Task2-ClassTask\Task2-ClassTask\bin\Debug\net6.0\Task2-ClassTask.runtimeconfig.json
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\Struct,Enum\Task2-ClassTask\Task2-ClassTask\bin\Debug\net6.0\Task2-ClassTask.dll
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\Struct,Enum\Task2-ClassTask\Task2-ClassTask\bin\Debug\net6.0\Task2-ClassTask.pdb
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\Struct,Enum\Task2-ClassTask\Task2-ClassTask\obj\Debug\net6.0\Task2-ClassTask.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\Struct,Enum\Task2-ClassTask\Task2-ClassTask\obj\Debug\net6.0\Task2-ClassTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\Struct,Enum\Task2-ClassTask\Task2-ClassTask\obj\Debug\net6.0\Task2-ClassTask.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\Struct,Enum\Task2-ClassTask\Task2-ClassTask\obj\Debug\net6.0\Task2-ClassTask.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\Struct,Enum\Task2-ClassTask\Task2-ClassTask\obj\Debug\net6.0\Task2-ClassTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\Struct,Enum\Task2-ClassTask\Task2-ClassTask\obj\Debug\net6.0\Task2-ClassTask.dll
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\Struct,Enum\Task2-ClassTask\Task2-ClassTask\obj\Debug\net6.0\refint\Task2-ClassTask.dll
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\Struct,Enum\Task2-ClassTask\Task2-ClassTask\obj\Debug\net6.0\Task2-ClassTask.pdb
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\Struct,Enum\Task2-ClassTask\Task2-ClassTask\obj\Debug\net6.0\Task2-ClassTask.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\Struct,Enum\Task2-ClassTask\Task2-ClassTask\obj\Debug\net6.0\ref\Task2-ClassTask.dll
